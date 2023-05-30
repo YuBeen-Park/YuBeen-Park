@@ -1,7 +1,10 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
-
-
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=soft&color=c6e2ff&text=Yubeen-Park&fontColor=ffffff&fontSize=60&animation=fadeIn)
+</div>
+  
 <!--
 **YuBeen-Park/YuBeen-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
